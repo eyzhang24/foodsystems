@@ -3,14 +3,7 @@ library(bslib)
 library(stringr)
 library(openxlsx)
 
-df1 <- read_csv('/Users/sara/Desktop/R/sustainability/food_systems/food_dashboard/food_data.csv')
-df2 <- read.xlsx('/Users/sara/Desktop/R/sustainability/food_systems/data/all_distributors.xlsx') %>% 
-  janitor::clean_names() %>% 
-  select(product = "product_name", 
-         brand = "vendor_name", 
-         "code")       
-
-df <- read.xlsx("food_2023.xlsx") 
+df <- read.xlsx("2022_2023/SZ/data/food_2023.xlsx") 
 colnames(df) <- df[1, ]
 # dates: 4/22-3/23
 df <- df[-1, ]
@@ -35,11 +28,13 @@ df <- df %>% select(product = "product_description",
   mutate(sales = round(as.numeric(sales), 2),
          miles_from_college = as.numeric(miles_from_college)) 
   
+# look for string patterns in attribute column
 pb_att <- paste('plant based', 'plant based unprocessed or minimally processed', 'Processed Culinary Ingredients', 
                 'Simple Processed Foods', 'plant based vegetarian', sep = '|')
 
 eco_att <- paste("Organic", "USDA Organic", "Rainforest Alliance Certified", "MSC Certified", 
                  "Monterey Bay Aquarium Seafood Watch - Good Alternative", "Monterey Bay - Good Alternative", "Fair Trade USA Certified", sep = '|')
+
 business_cert_att <- paste('Minority Owned', 'Woman Owned', "Certified B Corp", "ESOP 100% Employee Owned", sep = '|')
 
 df <- df %>% 
@@ -47,8 +42,18 @@ df <- df %>%
          eco_certified = ifelse(grepl(eco_att, attributes, ignore.case = TRUE), TRUE, FALSE),
          business_certified = ifelse(grepl(business_cert_att, attributes, ignore.case = TRUE), TRUE, FALSE))
 
+# filter out non-food items to calculate food spend only (for first credit)
 food_spend <- df %>% 
   filter(!manufacturer_name %in% c('WORLD CENTRIC', 'SLVR SRC', 'ECOLAB', 'GRNWARE', 'FRST MRK'))
+
+#####
+
+# total spend
+
+total_dining_spend <- sum(df$sales, na.rm = TRUE) # $3,181,018
+total_food_spend <- sum(food_spend$sales, na.rm = TRUE) # $3,181,018
+
+## STARS categories
 
 spend_pct <- function(df, total_spend){
   category_spend <- round(sum(df$sales, na.rm = TRUE), 1)
@@ -56,23 +61,19 @@ spend_pct <- function(df, total_spend){
   return(c(category_spend, spend_pct))
 }
 
-
-#####
-
-total_dining_spend <- sum(df$sales, na.rm = TRUE) # $3,181,018
-total_food_spend <- sum(food_spend$sales, na.rm = TRUE) # $3,181,018
-
-## STARS categories
+# plant-based
 pb_items <- food_spend %>% filter(plant_based == TRUE)
 pb <- spend_pct(df = pb_items, total_spend = total_food_spend)
 pb_total <- pb[1] # $1,276,122
 pb_pct <- pb[2] # 40.1%
 
+# sustainably and ecologically sourced
 eco_items <- food_spend %>% filter(eco_certified == TRUE)
 eco <- spend_pct(df = eco_items, total_spend = total_food_spend)
 eco_total <- eco[1] # $88,286
 eco_pct <- eco[2] # 2.8%
 
+# social impact suppliers
 soc_impact_items <- df %>% filter(business_certified == TRUE)
 soc_impact <- spend_pct(df = soc_impact_items, total_spend = total_dining_spend)
 soc_impact_total <- soc_impact[1] # $508,512
@@ -80,15 +81,27 @@ soc_impact_pct <- soc_impact[2] # 14.6%
 
 #####
 
-# miles info isn't accurate so ignore local category for now
-local <- food_spend %>% filter(miles_from_college <= 250)
-local_spend <- sum(local$sales, na.rm = TRUE) # $1,158,728
+# local
+
+# sourcing info isn't accurate so ignore local category for now
+# local_items <- food_spend %>% filter(miles_from_college <= 250)
+# local <- spend_pct(df = local_items, total_spend = total_food_spend)
+# local_total <- pb[1] # 
+# local_pct <- pb[2] # 
 
 #####
 
+# read in old data
+df1 <- read_csv('2022_2023/SZ/data/2021_data_clean.csv')
+df2 <- read.xlsx('2022_2023/SZ/data/2021_data_raw.xlsx') %>% 
+  janitor::clean_names() %>% 
+  select(product = "product_name", 
+         brand = "vendor_name", 
+         "code")       
+
 ## categories
 
-# animal protein
+# get meat items - first word of product column - from old data set
 meats <- df1 %>% 
   filter(category == 'Animal Protein') %>% 
   mutate(item = gsub("([A-Za-z]+).*", "\\1", product) %>% tolower())
