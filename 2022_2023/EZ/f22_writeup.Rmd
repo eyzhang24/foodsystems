@@ -1,0 +1,29 @@
+---
+title: "Fall 2022 Writeup -- Food Systems Project"
+output: pdf_document
+date: "2022-12-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Goals
+
+- Understand spend breakdowns across different attributes at Val 
+- Leverage comparisons with data from other colleges to identify alternatives to current products
+- Support and collaborate with Val Dining and the Food Systems committee to achieve sustainability goals
+
+## Completed analyses
+
+We had data from a third-party contracted analysis of Val's procurement data for the year of 2020-2021. We do note that this data was from the covid year, so we must interpret trends with caution. This data were available in two formats: one from an interactive dashboard, and another in its raw form. We noticed that there were slight inconsistencies in reporting between the two formats, so we made sure that any information that was encoded in one format was included in the final aggregated dataset. Using this data, we looked at Val's expenditure across several different attributes, including third-party certifications (which includes institutionally-affirmed, rainforest alliance certified, organic, and fair trade), business certifications (b-corp certified and minority/women-owned businesses), plant-based products, and local products/local vendors. We were especially interested in understanding Val's purchasing habits across plant-based and local products. We looked at Val's spending by this attributes overall and also broken down by category to get a sense of how much Val is spending within each attribute and how that spending is distributed across different product types. Ultimately, we supported the Food Systems committee in gauging areas where they might focus their attention on when thinking about switches to sustainable alternatives. In collaboration with Sara Zhu, we put together some Google sheets with the data sorted by expenditure and broken down by local/non-local and plant-based/non plant-based. We provided these to the food systems committee as an interactive tool to identify specific products where a switch might be possible (e.g. from a non-local source to a local source). 
+
+Next, we conducted an analysis of spending habits at Smith and Mt. Holyoke, using data publicly available from the STARS website. Their data were formatted slightly differently, so we were not able to make direct comparisons across all different cateogries. Moreover, their data were also out-dated. Still, I created summative plots of Smith's local expenditure across different categories to compare to Val; overall, Smith did slightly better, though their data was not from a covid year. Mt. Holyoke did not have all of its spending data available, only its local products, so we were not able to conduct a visual analysis of its spend. We did, however, aggregate the different sources of data for Smith and Mt. Holyoke and highlighted products that are local. We provided these to the food systems committee, again in the form of Google Sheets, as a resource to help identify local products that Smith and Mt. Holyoke are purchasing which we might be able to make a switch to. 
+
+## Next steps
+
+Wes has reached out to various schools about getting access to a more recent version of thier procurement data. This data would be especially helpful for identifying a more robust set of potential alternatives, and also getting a more accurate sense of how Amherst is doing compared to its peers. Joe, head of Val Dining, is also planning on doing the contracted analysis of Val's procurement again for the most recent fiscal year. There are a couple points of feedback that we might share about the data in its current iteration for this upcoming analysis. The data were in two slightly different formats from the two sources they were available from, so we would ask that they provide the same dataset in both places so that we can be assured about its accuracy. We also might ask for them to include a category for vegetarian/vegan alternatives to meat (this includes tofu, fake meat, plant-based milks, etc.), because it would be a useful attribute to track regarding vegan/vegetarian expenditure at Val. This analysis could also be interesting in comparison to the covid year, because we could track how spending had to change during the covid year, and also potentially track inflation of certain goods, which could be useful for making decision about future purchasing. Finally, I have been in contact with Willoughby about potentially creating a map in Val (at some point in the future) showcasing the different local switches that the food systems committee has helped to facilitate to highlight the work that has been done. 
+
+
+
+
