@@ -42,20 +42,20 @@ Local Orders / Vendors
 
 ## STARS 3.0 Food & Dining Credit
 
-1) sustainably or ethically produced + plant-based
+*1) sustainably or ethically produced + plant-based*
 % of food and beverage spend on products that are sustainably or ethically produced
 % of food and beverage spend on plant-based foods
 
-2) social impact suppliers
+*2) social impact suppliers*
 % of dining service spend with social impact suppliers
 
-3) food recovery program (not covered here)
+*3) food recovery program* (not covered here)
 
 ### Definitions
 
-1) Sustainably or ethically produced
+*1) Sustainably or ethically produced*
 
-2) Plant-based foods 
+*2) Plant-based foods *
 
 - Unprocessed and minimally processed
   - fruits, vegetables, sprouts, legumes, pulses, soy foods, nuts, seeds, herbs, spices, seaweed, algae, fungi, whole grains (e.g., flour, oats, and rice), coffee beans, and tea leaves
