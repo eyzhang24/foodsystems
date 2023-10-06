@@ -1,9 +1,9 @@
 ## AC Dining Spend Analysis
 
-table of contents
-- [STARS 3.0 Food & Dining Credit]
-- [Results]()
-- [Definitions]
+#### *Table of Contents*
+- [STARS 3.0 Food & Dining Credit](#stars-30-food--dining-credit)
+- [Results](#results)
+- [Definitions](#stars-credit-definitions)
 
 ### STARS 3.0 Food & Dining Credit
 
