@@ -21,9 +21,9 @@ see [definitions](#stars-credit-definitions)
 #### 2022-2023
 
 ##### PFG (~2/3 of total spend)
-- Total Spend = $3,490,549
-- Food/Beverage Spend = $3,181,018 
-- Dates: 4/22 - 3/23
+Total Spend = $3,490,549
+Food/Beverage Spend = $3,181,018 
+Dates: 4/22 - 3/23
 
 EFH (Ecological, Fair, or Humane Certified) Spend
 - 2.8%
@@ -39,9 +39,9 @@ Social Impact Suppliers
 #### 2021-2022
 
 ##### All Orders
-- Total Spend = 
-- Food/Beverage Spend = $3,531,334.31
-- Dates:
+Total Spend = 
+Food/Beverage Spend = $3,531,334.31
+Dates:
 
 EFH (Ecological, Fair, or Humane Certified) Spend
 - ~7%
