@@ -8,8 +8,6 @@
 
 ### STARS 3.0 Food & Dining Credit
 
-[documentation](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
-
 *point distribution TBD*
 
 [**1) sustainably or ethically produced + plant-based**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.7wz6nkbm6esg)
@@ -21,6 +19,7 @@
 
 [**3) food recovery program**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.2epmtj4ei2qq) (not covered here)
 
+see [complete documentation](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
 see [definitions](#stars-credit-definitions)
 
 ## Results
