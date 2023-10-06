@@ -1,7 +1,13 @@
 ## AC Dining Spend Analysis
 
+table of contents
+- [STARS 3.0 Food & Dining Credit]
+- [Results]()
+- [Definitions]
 
-### [STARS 3.0 Food & Dining Credit](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
+### STARS 3.0 Food & Dining Credit
+
+[documentation](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
 
 *point distribution TBD*
 
