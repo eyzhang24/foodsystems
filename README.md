@@ -12,7 +12,7 @@
 
 [**3) food recovery program**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.2epmtj4ei2qq) (not covered here)
 
-see [definitions](#Definitions)
+see [definitions](#stars-credit-definitions)
 
 ## Results
 
