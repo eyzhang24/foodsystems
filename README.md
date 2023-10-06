@@ -1,43 +1,5 @@
 ## AC Dining Spend Analysis
 
-### 2022-2023
-
-#### PFG (~2/3 of total spend)
-- Total Spend = $3,490,549
-- Food/Beverage Spend = $3,181,018 
-- Dates: 4/22 - 3/23
-
-EFH (Ecological, Fair, or Humane Certified) Spend
-- 2.8%
-
-Plant-Based Spend
-- 40.1% - Qualifying Plant-Based Spend
-
-Social Impact Suppliers
-- 14.6% - Total Spend
-- 6.2% - Food Spend Only
-
-
-### 2021-2022
-
-#### All Orders
-- Total Spend = 
-- Food/Beverage Spend = $3,531,334.31
-- Dates:
-
-EFH (Ecological, Fair, or Humane Certified) Spend
-- ~7%
-
-[Plant-Based Spend](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.7wz6nkbm6esg)
-- 34% - Qualifying Plant-Based Spend
-
-Social Impact Suppliers
-- 8% for Women/Minority Owned
-- 12.2% for All (includes B-Corp)
-
-Local Orders / Vendors
-- 8% for Local Products from Local Vendors
-- 23% for Non-Local Products from Non-Local Vendors
 
 ### [STARS 3.0 Food & Dining Credit](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
 
@@ -82,3 +44,43 @@ Social impact suppliers therefore include:
 - Social enterprises
 - Certified B Corporations
 
+### Results
+
+#### 2022-2023
+
+##### PFG (~2/3 of total spend)
+- Total Spend = $3,490,549
+- Food/Beverage Spend = $3,181,018 
+- Dates: 4/22 - 3/23
+
+EFH (Ecological, Fair, or Humane Certified) Spend
+- 2.8%
+
+Plant-Based Spend
+- 40.1% - Qualifying Plant-Based Spend
+
+Social Impact Suppliers
+- 14.6% - Total Spend
+- 6.2% - Food Spend Only
+
+
+#### 2021-2022
+
+##### All Orders
+- Total Spend = 
+- Food/Beverage Spend = $3,531,334.31
+- Dates:
+
+EFH (Ecological, Fair, or Humane Certified) Spend
+- ~7%
+
+Plant-Based Spend
+- 34% - Qualifying Plant-Based Spend
+
+Social Impact Suppliers
+- 8% for Women/Minority Owned
+- 12.2% for All (includes B-Corp)
+
+Local Orders / Vendors
+- 8% for Local Products from Local Vendors
+- 23% for Non-Local Products from Non-Local Vendors
