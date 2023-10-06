@@ -1,44 +1,44 @@
-# AC Dining Spend Analysis
+## AC Dining Spend Analysis
 
-# 2022-2023
-# 
-# PFG (~2/3 of total spend)
-# Total = $3,181,018 (food only)
-# Dates: 4/22 - 3/23
-# 
-# EFH (Ecological, Fair, or Humane Certified) Orders
-# 2.8%
-# 
-# Plant-Based Orders
-# 40.1% - Qualifying Plant-Based Spend
-# 
-# Social Impact Suppliers
-# 14.6% - Dining Spend
-# 6.2% - Food Spend Only
-#
-# 
-# 
-#
-# 2021-2022
-#
-# All Orders 
-# Total = $3,531,334.31
-# Dates: 
-# 
-# EFH (Ecological, Fair, or Humane Certified) Orders
-# ~7%
-# 
-# Social Impact Suppliers
-# 8% for Women/Minority Owned
-# 12.2% for All (includes B-Corp)
-# 
-# Plant-Based Orders
-# 34% - Qualifying Plant-Based Spend
-# 66% - Non-Qualifying
-#
-# Local Orders / Vendors
-# 8% for Local Products from Local Vendors
-# 23% for Non-Local Products from Non-Local Vendors
+## Results
+
+### 2022-2023
+
+#### PFG (~2/3 of total spend)
+Total = $3,181,018 (food only)
+Dates: 4/22 - 3/23
+
+EFH (Ecological, Fair, or Humane Certified) Orders
+2.8%
+
+Plant-Based Orders
+40.1% - Qualifying Plant-Based Spend
+
+Social Impact Suppliers
+14.6% - Dining Spend
+6.2% - Food Spend Only
+
+
+### 2021-2022
+
+#### All Orders
+Total = $3,531,334.31
+Dates:
+
+EFH (Ecological, Fair, or Humane Certified) Orders
+~7%
+
+Social Impact Suppliers
+8% for Women/Minority Owned
+12.2% for All (includes B-Corp)
+
+Plant-Based Orders
+34% - Qualifying Plant-Based Spend
+66% - Non-Qualifying
+
+Local Orders / Vendors
+8% for Local Products from Local Vendors
+23% for Non-Local Products from Non-Local Vendors
 
 ## STARS 3.0 Food & Dining Credit
 
@@ -51,7 +51,7 @@
 
 3) food recovery program (not covered here)
 
-Definitions
+### Definitions
 
 1) Sustainably or ethically produced
 
