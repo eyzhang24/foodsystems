@@ -3,6 +3,8 @@
 
 ### [STARS 3.0 Food & Dining Credit](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
 
+*point distribution TBD*
+
 [**1) sustainably or ethically produced + plant-based**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.7wz6nkbm6esg)
 - % of food and beverage spend on products that are sustainably or ethically produced
 - % of food and beverage spend on plant-based foods
