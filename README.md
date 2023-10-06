@@ -28,7 +28,7 @@ Social Impact Suppliers
 EFH (Ecological, Fair, or Humane Certified) Spend
 - ~7%
 
-Plant-Based Spend
+[Plant-Based Spend](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.7wz6nkbm6esg)
 - 34% - Qualifying Plant-Based Spend
 
 Social Impact Suppliers
