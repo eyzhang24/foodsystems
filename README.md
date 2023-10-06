@@ -12,39 +12,9 @@
 
 [**3) food recovery program**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.2epmtj4ei2qq) (not covered here)
 
-### Definitions
+see [Definitions]
 
-**1) sustainably or ethically produced**
-
-- Third party certified
-- Produced by campus farms or gardens using sustainable or ethical methods
-- Grown, raised, or caught by small producers using sustainable or ethical methods
-
-**2) plant-based foods**
-
-- Unprocessed and minimally processed
-  - fruits, vegetables, sprouts, legumes, pulses, soy foods, nuts, seeds, herbs, spices, seaweed, algae, fungi, whole grains (e.g., flour, oats, and rice), coffee beans, and tea leaves
-- Culinary ingredients
-  - obtained directly from plants 
-  - (e.g., oils, syrups, starches, and sweeteners)
-- Simple processed foods
-  - predominantly derived from plants and/or fungi
-  - (e.g. fruit and vegetable juices, fruits preserved in syrup, vegetables preserved in brine, tofu and tempeh, and some freshly baked breads)
-- Ultra-processed foods (third party certified)
-  - (e.g. meat or dairy alternatives)
-  
-**3) social impact supplier** 
-
-Social impact purchasing is defined as purchasing that is directed toward improving societal health and well-being and catalyzing prosperity for all,  particularly those impacted by a legacy of divestment and discrimination. 
-
-Social impact suppliers therefore include: 
-
-- Enterprises owned by people from marginalized groups, 
-- Employee-owned enterprises
-- Social enterprises
-- Certified B Corporations
-
-### Results
+## Results
 
 #### 2022-2023
 
@@ -84,3 +54,36 @@ Social Impact Suppliers
 Local Orders / Vendors
 - 8% for Local Products from Local Vendors
 - 23% for Non-Local Products from Non-Local Vendors
+
+
+### STARS Credit Definitions
+
+**1) sustainably or ethically produced**
+
+- Third party certified
+- Produced by campus farms or gardens using sustainable or ethical methods
+- Grown, raised, or caught by small producers using sustainable or ethical methods
+
+**2) plant-based foods**
+
+- Unprocessed and minimally processed
+  - fruits, vegetables, sprouts, legumes, pulses, soy foods, nuts, seeds, herbs, spices, seaweed, algae, fungi, whole grains (e.g., flour, oats, and rice), coffee beans, and tea leaves
+- Culinary ingredients
+  - obtained directly from plants 
+  - (e.g., oils, syrups, starches, and sweeteners)
+- Simple processed foods
+  - predominantly derived from plants and/or fungi
+  - (e.g. fruit and vegetable juices, fruits preserved in syrup, vegetables preserved in brine, tofu and tempeh, and some freshly baked breads)
+- Ultra-processed foods (third party certified)
+  - (e.g. meat or dairy alternatives)
+  
+**3) social impact supplier** 
+
+Social impact purchasing is defined as purchasing that is directed toward improving societal health and well-being and catalyzing prosperity for all,  particularly those impacted by a legacy of divestment and discrimination. 
+
+Social impact suppliers therefore include: 
+
+- Enterprises owned by people from marginalized groups, 
+- Employee-owned enterprises
+- Social enterprises
+- Certified B Corporations
