@@ -1,12 +1,10 @@
 ## AC Dining Spend Analysis
 
-### Results
-
 ### 2022-2023
 
 #### PFG (~2/3 of total spend)
-Total = $3,181,018 (food only)
-Dates: 4/22 - 3/23
+- Total = $3,181,018 (food only)
+- Dates: 4/22 - 3/23
 
 EFH (Ecological, Fair, or Humane Certified) Orders
 - 2.8%
@@ -22,8 +20,8 @@ Social Impact Suppliers
 ### 2021-2022
 
 #### All Orders
-Total = $3,531,334.31
-Dates:
+- Total = $3,531,334.31
+- Dates:
 
 EFH (Ecological, Fair, or Humane Certified) Orders
 - ~7%
@@ -51,7 +49,7 @@ Local Orders / Vendors
 
 **3) food recovery program** (not covered here)
 
-#### Definitions
+### Definitions
 
 **1) Sustainably or ethically produced**
 
