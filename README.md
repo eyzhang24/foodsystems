@@ -1,4 +1,4 @@
-## AC Dining Analysis
+## Food & Dining
 
 *Contents*
 - [STARS 3.0 Food & Dining Credit](#stars-30-food--dining-credit)
@@ -6,9 +6,15 @@
 - [Definitions](#stars-credit-definitions)
 - [Google Drive Folder](https://drive.google.com/drive/folders/1MpK4bpxYSuIs97QPZ0AMyqoNcxe-ACPu)
 
+------
+
 ### STARS 3.0 Food & Dining Credit
 
 *point distribution TBD*
+
+- 7.1 Percentage of food and beverage spend that meets sustainability criteria
+- 7.2 Percentage of dining service spend with social impact suppliers
+- 8.1 Food recovery program
 
 [**1) sustainably or ethically produced + plant-based**](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.7wz6nkbm6esg)
 - % of food and beverage spend on products that are sustainably or ethically produced
@@ -21,6 +27,8 @@
 
 see [complete documentation](https://docs.google.com/document/d/1UgIhYWWg5GS7cB9qYvRpw76-ThuQZJ2X1spEiS1fp_U/edit#heading=h.43oau9mq61o0)
 see [definitions](#stars-credit-definitions)
+
+------
 
 ## Results
 
